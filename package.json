@@ -1,0 +1,7 @@
+{
+  "name": "qr-code-api",
+  "private": true,
+  "dependencies": {
+    "qrcode": "^1.5.4"
+  }
+}
